@@ -13,7 +13,7 @@
     }
   },
   "okdpApi": {
-    "apiUrl": "http://keycloak:8090/api/v1",
+    "apiUrl": "http://localhost:8090/api/v1",
     "swaggerUrl": "http://localhost:8092"
   },
   "submission": {
